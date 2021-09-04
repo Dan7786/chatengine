@@ -1,0 +1,26 @@
+Q1. Difference between class based functional and class components?
+
+Q2. Are you familiar with writing custom hooks?
+
+Q3. Do you what is promise?
+
+Q4. Do you know what is closure in javascript?
+
+Q5. What is the difference between let and var?
+
+Q6. Are you familiar with javascript?
+
+Q7. Wy do we need typescript?
+
+Q8. Did you ever use SWR for integrating api in react?
+
+Q9. Have you  ever use Next.js?
+
+Q10. Coding task
+
+        Create two button with increment and decrement.when you click decrement 
+        should decreased by 1 and when you click on increment it should increased by  1.
+
+Q11. We do we use arrow functions?
+
+Q12. Why we are we using class based components instead of function based components?

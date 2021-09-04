@@ -1,0 +1,39 @@
+Q1. Difference between local storage and session storage?
+
+Q2. Difference between webworker and service worker?
+
+Q3. What is svg and how to use it in react?
+
+Q4. Different type of positions in css?
+
+Q5. do we need to provide parent as relative in positioning in css?
+
+Q6.  what is css box modal?
+
+Q7. Do you know the difference between call, bind, and apply?
+
+Q8. Why we use promises?
+
+Q9. But if promise will throw rejection will it get to the next phase?
+
+Q10. What is the difference between const, let and var?
+
+Q11. can we update the value of const after declaring const?
+
+Q12. Do You know event delegation and event bubbling?
+
+Q13. I want a object and I want it to be immutable. How can we do it?
+
+Q14. How to prevent re-rendering of components in class and functional components?
+
+Q15. what is  should component update if it returns false?
+
+Q16. Why we use fat arrow function in reactjs?
+
+Q17. how to communicate from component 1 to component 10 in reactjs?
+
+Q18. Do you know what is render props?
+
+Q19. Can we use multiple reducers in reactjs?
+
+Q20. Why we say state is immutable in redux?

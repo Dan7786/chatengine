@@ -1,0 +1,9 @@
+Q1. Mchine test
+
+    let a =[
+        {key: "1", name: "AAA", field: "Software", location: "Banglore"},
+        {key: "2", name: "BBB", field: "Hardware", location: "Banglore"},
+        {key: "3", name: "CCC", field: "SW&HW", location: "Banglore"},
+    ]
+
+    Find name BBB and merge it with {field: "Software", location: "Delhi"}
